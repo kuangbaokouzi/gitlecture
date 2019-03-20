@@ -1,0 +1,23 @@
+From c8590a80ffffc26d7cb89a0817eaad87d36a9220 Mon Sep 17 00:00:00 2001
+From: jason <35773597@qq.com>
+Date: Wed, 20 Mar 2019 14:05:47 +0800
+Subject: [PATCH] Revert "jason"
+
+This reverts commit 960706f3f948e1c10504e5942d144ac410c73830.
+---
+ README.MD | 2 --
+ 1 file changed, 2 deletions(-)
+
+diff --git a/README.MD b/README.MD
+index c034ddf..fc45c3b 100644
+--- a/README.MD
++++ b/README.MD
+@@ -5,5 +5,3 @@
+ *张三
+ 
+ *abcdefgabc
+-
+-asdfsadf
+-- 
+2.20.1.windows.1
+

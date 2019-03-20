@@ -4,6 +4,4 @@
 
 *张三
 
-*abcdefgabc heihei
-
-heiheiheihei
+*abcdefgabc
